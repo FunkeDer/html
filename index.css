@@ -1,0 +1,50 @@
+.oleg__kilobony{
+    width: 25%;
+    height: 16rem;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FAE2CD;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.oleg__kilobony h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.oleg__kilobony button{
+    border-radius: 10px;
+    border: none;
+    margin-top: 10px;
+    color: black;
+    background-color: #C959FF;
+    width: 5rem;
+    height: auto;
+    transition: 0.3s;
+    cursor: pointer;
+
+}
+
+.oleg__kilobony button:hover{
+    border-radius: 10px;
+    border: none;
+    margin-top: 10px;
+    color: white;
+    background-color: #391849;
+    width: 5.5rem;
+    height: auto;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.oleg__kilobony h4{
+    text-align: center;
+}
+
+.other_input_div{
+    color: black;
+    z-index: 10;
+}
